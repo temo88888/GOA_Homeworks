@@ -12,7 +12,6 @@ print (e < r and w > q)
 
 o =333
 i = 4545
-o > i
 print (True and False)
 
 g =334
