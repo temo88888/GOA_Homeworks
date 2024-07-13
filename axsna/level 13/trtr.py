@@ -67,8 +67,8 @@
 # 1
 
 
-
-
+ for i in range():  #i da range aris cvlalebadi sxva araferi 
+    print()  #
 
 
 
