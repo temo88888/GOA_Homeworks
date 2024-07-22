@@ -3,7 +3,7 @@ for i in range (30):
     print("GOA IS THE BEST")
 
 # დავალება N2
-for number in range (5,150):
+for number in range (5,151):
     print (number)
 
 # დავალება N3
@@ -11,11 +11,11 @@ for number in range (2,50,4):
     print (number)
 
 #   დავალება N4
-for number in range (0,10):
+for number in range (0,11):
     print (str(number) + "GOA")
 
 #   დავალება N5
-for number in range (2,20,1):
+for number in range (2,21,1):
     print (number)
 
 #  დავალება N6
